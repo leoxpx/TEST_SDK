@@ -25,12 +25,12 @@ typedef void(^GSResultBlock)(NSString *orderNumber, GSErrorCode error);
 /**
  *  默认定位城市名 可选 存在时优先于定位信息
  */
-@property (nonatomic, strong) NSString *locationCityName;
+@property (nonatomic, strong) NSString *defaultCityName;
 
 /**
  *  默认定位城市ID 可选
  */
-@property (nonatomic, strong) NSString *locationCityId;
+@property (nonatomic, strong) NSString *defaultCityId;
 
 
 /**

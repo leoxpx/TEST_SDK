@@ -19,8 +19,7 @@
 #define GS_Background_Color GS_RGB(242, 242, 242)
 // 分割线颜色
 #define GS_Cell_Color GS_RGB(225, 225, 225)
-
-// 如需修改图标,可将图标替换至 IGeShuiTaxSDK.bundle 内, 需与原图片保持命名一致.
+// 返回按钮图片名称需替换至boundle内:"gs_nvcBack.png"
 
 
 
